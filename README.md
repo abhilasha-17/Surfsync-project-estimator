@@ -132,13 +132,6 @@ The dashboard displays global permutation importance separately for hours and du
 - Complexity is rule-based, not a trained classifier.
 - Collect real completed-project outcomes and validate the estimates before operational use.
 
-## Documentation
-
-- [Architecture](docs/architecture.md)
-- [API documentation](docs/API.md)
-- [Demo outline](docs/demo_script.md)
-- [Release checklist](docs/release_checklist.md)
-
 ## Project links
 
 Add these links after publishing and deploying:
