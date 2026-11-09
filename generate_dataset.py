@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 
 
-# Reproducible output
 SEED = 42
 N_ROWS = 400
 ASSUMED_HOURLY_RATE_INR = 1_200
@@ -19,7 +18,6 @@ def choose(values, probabilities):
     return rng.choice(values, p=probabilities)
 
 
-# ---------- Generate clean project inputs ----------
 
 project_types = [
     "Web Application",
