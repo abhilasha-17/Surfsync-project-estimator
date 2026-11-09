@@ -1,0 +1,142 @@
+csv_row_number,project_id,column,issue,original_value,detail
+8,PRJ-0007,project_type,missing_value,,Value is missing in the raw CSV.
+53,PRJ-0052,project_type,missing_value,,Value is missing in the raw CSV.
+84,PRJ-0083,project_type,missing_value,,Value is missing in the raw CSV.
+91,PRJ-0090,project_type,missing_value,,Value is missing in the raw CSV.
+116,PRJ-0115,project_type,missing_value,,Value is missing in the raw CSV.
+137,PRJ-0136,project_type,missing_value,,Value is missing in the raw CSV.
+147,PRJ-0146,project_type,missing_value,,Value is missing in the raw CSV.
+182,PRJ-0181,project_type,missing_value,,Value is missing in the raw CSV.
+233,PRJ-0232,project_type,missing_value,,Value is missing in the raw CSV.
+252,PRJ-0251,project_type,missing_value,,Value is missing in the raw CSV.
+312,PRJ-0311,project_type,missing_value,,Value is missing in the raw CSV.
+401,PRJ-0400,project_type,missing_value,,Value is missing in the raw CSV.
+13,PRJ-0012,num_modules,missing_value,,Value is missing in the raw CSV.
+45,PRJ-0044,num_modules,missing_value,,Value is missing in the raw CSV.
+78,PRJ-0077,num_modules,missing_value,,Value is missing in the raw CSV.
+79,PRJ-0078,num_modules,missing_value,,Value is missing in the raw CSV.
+86,PRJ-0085,num_modules,missing_value,,Value is missing in the raw CSV.
+99,PRJ-0098,num_modules,missing_value,,Value is missing in the raw CSV.
+145,PRJ-0144,num_modules,missing_value,,Value is missing in the raw CSV.
+193,PRJ-0192,num_modules,missing_value,,Value is missing in the raw CSV.
+210,PRJ-0209,num_modules,missing_value,,Value is missing in the raw CSV.
+326,PRJ-0325,num_modules,missing_value,,Value is missing in the raw CSV.
+360,PRJ-0359,num_modules,missing_value,,Value is missing in the raw CSV.
+370,PRJ-0369,num_modules,missing_value,,Value is missing in the raw CSV.
+65,PRJ-0064,num_user_roles,missing_value,,Value is missing in the raw CSV.
+110,PRJ-0109,num_user_roles,missing_value,,Value is missing in the raw CSV.
+175,PRJ-0174,num_user_roles,missing_value,,Value is missing in the raw CSV.
+190,PRJ-0189,num_user_roles,missing_value,,Value is missing in the raw CSV.
+198,PRJ-0197,num_user_roles,missing_value,,Value is missing in the raw CSV.
+201,PRJ-0200,num_user_roles,missing_value,,Value is missing in the raw CSV.
+216,PRJ-0215,num_user_roles,missing_value,,Value is missing in the raw CSV.
+265,PRJ-0264,num_user_roles,missing_value,,Value is missing in the raw CSV.
+270,PRJ-0269,num_user_roles,missing_value,,Value is missing in the raw CSV.
+327,PRJ-0326,num_user_roles,missing_value,,Value is missing in the raw CSV.
+337,PRJ-0336,num_user_roles,missing_value,,Value is missing in the raw CSV.
+363,PRJ-0362,num_user_roles,missing_value,,Value is missing in the raw CSV.
+3,PRJ-0002,num_integrations,missing_value,,Value is missing in the raw CSV.
+4,PRJ-0003,num_integrations,missing_value,,Value is missing in the raw CSV.
+8,PRJ-0007,num_integrations,missing_value,,Value is missing in the raw CSV.
+31,PRJ-0030,num_integrations,missing_value,,Value is missing in the raw CSV.
+34,PRJ-0033,num_integrations,missing_value,,Value is missing in the raw CSV.
+172,PRJ-0171,num_integrations,missing_value,,Value is missing in the raw CSV.
+176,PRJ-0175,num_integrations,missing_value,,Value is missing in the raw CSV.
+188,PRJ-0187,num_integrations,missing_value,,Value is missing in the raw CSV.
+195,PRJ-0194,num_integrations,missing_value,,Value is missing in the raw CSV.
+303,PRJ-0302,num_integrations,missing_value,,Value is missing in the raw CSV.
+312,PRJ-0311,num_integrations,missing_value,,Value is missing in the raw CSV.
+374,PRJ-0373,num_integrations,missing_value,,Value is missing in the raw CSV.
+56,PRJ-0055,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+65,PRJ-0064,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+127,PRJ-0126,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+141,PRJ-0140,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+156,PRJ-0155,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+275,PRJ-0274,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+282,PRJ-0281,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+298,PRJ-0297,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+342,PRJ-0341,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+373,PRJ-0372,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+379,PRJ-0378,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+400,PRJ-0399,ui_ux_complexity,missing_value,,Value is missing in the raw CSV.
+65,PRJ-0064,backend_complexity,missing_value,,Value is missing in the raw CSV.
+72,PRJ-0071,backend_complexity,missing_value,,Value is missing in the raw CSV.
+75,PRJ-0074,backend_complexity,missing_value,,Value is missing in the raw CSV.
+176,PRJ-0175,backend_complexity,missing_value,,Value is missing in the raw CSV.
+177,PRJ-0176,backend_complexity,missing_value,,Value is missing in the raw CSV.
+190,PRJ-0189,backend_complexity,missing_value,,Value is missing in the raw CSV.
+222,PRJ-0221,backend_complexity,missing_value,,Value is missing in the raw CSV.
+227,PRJ-0226,backend_complexity,missing_value,,Value is missing in the raw CSV.
+269,PRJ-0268,backend_complexity,missing_value,,Value is missing in the raw CSV.
+302,PRJ-0301,backend_complexity,missing_value,,Value is missing in the raw CSV.
+334,PRJ-0333,backend_complexity,missing_value,,Value is missing in the raw CSV.
+391,PRJ-0390,backend_complexity,missing_value,,Value is missing in the raw CSV.
+72,PRJ-0071,num_developers,missing_value,,Value is missing in the raw CSV.
+83,PRJ-0082,num_developers,missing_value,,Value is missing in the raw CSV.
+161,PRJ-0160,num_developers,missing_value,,Value is missing in the raw CSV.
+173,PRJ-0172,num_developers,missing_value,,Value is missing in the raw CSV.
+180,PRJ-0179,num_developers,missing_value,,Value is missing in the raw CSV.
+205,PRJ-0204,num_developers,missing_value,,Value is missing in the raw CSV.
+206,PRJ-0205,num_developers,missing_value,,Value is missing in the raw CSV.
+230,PRJ-0229,num_developers,missing_value,,Value is missing in the raw CSV.
+233,PRJ-0232,num_developers,missing_value,,Value is missing in the raw CSV.
+273,PRJ-0272,num_developers,missing_value,,Value is missing in the raw CSV.
+285,PRJ-0284,num_developers,missing_value,,Value is missing in the raw CSV.
+347,PRJ-0346,num_developers,missing_value,,Value is missing in the raw CSV.
+110,PRJ-0109,developer_experience,missing_value,,Value is missing in the raw CSV.
+142,PRJ-0141,developer_experience,missing_value,,Value is missing in the raw CSV.
+151,PRJ-0150,developer_experience,missing_value,,Value is missing in the raw CSV.
+179,PRJ-0178,developer_experience,missing_value,,Value is missing in the raw CSV.
+189,PRJ-0188,developer_experience,missing_value,,Value is missing in the raw CSV.
+212,PRJ-0211,developer_experience,missing_value,,Value is missing in the raw CSV.
+217,PRJ-0216,developer_experience,missing_value,,Value is missing in the raw CSV.
+265,PRJ-0264,developer_experience,missing_value,,Value is missing in the raw CSV.
+282,PRJ-0281,developer_experience,missing_value,,Value is missing in the raw CSV.
+354,PRJ-0353,developer_experience,missing_value,,Value is missing in the raw CSV.
+394,PRJ-0393,developer_experience,missing_value,,Value is missing in the raw CSV.
+400,PRJ-0399,developer_experience,missing_value,,Value is missing in the raw CSV.
+17,PRJ-0016,ui_ux_complexity,category_normalized,MEDIUM,Normalized to 'Medium'.
+39,PRJ-0038,ui_ux_complexity,category_normalized,high,Normalized to 'High'.
+71,PRJ-0070,ui_ux_complexity,category_normalized,MEDIUM,Normalized to 'Medium'.
+73,PRJ-0072,ui_ux_complexity,category_normalized,medium,Normalized to 'Medium'.
+117,PRJ-0116,ui_ux_complexity,category_normalized,MEDIUM,Normalized to 'Medium'.
+133,PRJ-0132,ui_ux_complexity,category_normalized,medium,Normalized to 'Medium'.
+231,PRJ-0230,ui_ux_complexity,category_normalized,MEDIUM,Normalized to 'Medium'.
+239,PRJ-0238,ui_ux_complexity,category_normalized,medium,Normalized to 'Medium'.
+267,PRJ-0266,ui_ux_complexity,category_normalized,Medium ,Normalized to 'Medium'.
+268,PRJ-0267,ui_ux_complexity,category_normalized,high,Normalized to 'High'.
+293,PRJ-0292,ui_ux_complexity,category_normalized,HIGH,Normalized to 'High'.
+330,PRJ-0329,ui_ux_complexity,category_normalized,medium,Normalized to 'Medium'.
+15,PRJ-0014,backend_complexity,category_normalized,HIGH,Normalized to 'High'.
+30,PRJ-0029,backend_complexity,category_normalized,Medium ,Normalized to 'Medium'.
+53,PRJ-0052,backend_complexity,category_normalized,Medium ,Normalized to 'Medium'.
+82,PRJ-0081,backend_complexity,category_normalized,medium,Normalized to 'Medium'.
+128,PRJ-0127,backend_complexity,category_normalized,Medium ,Normalized to 'Medium'.
+147,PRJ-0146,backend_complexity,category_normalized,medium,Normalized to 'Medium'.
+166,PRJ-0165,backend_complexity,category_normalized,LOW,Normalized to 'Low'.
+257,PRJ-0256,backend_complexity,category_normalized,Low ,Normalized to 'Low'.
+292,PRJ-0291,backend_complexity,category_normalized,Low ,Normalized to 'Low'.
+295,PRJ-0294,backend_complexity,category_normalized,medium,Normalized to 'Medium'.
+307,PRJ-0306,backend_complexity,category_normalized,HIGH,Normalized to 'High'.
+323,PRJ-0322,backend_complexity,category_normalized,medium,Normalized to 'Medium'.
+45,PRJ-0044,developer_experience,category_normalized,SENIOR,Normalized to 'Senior'.
+80,PRJ-0079,developer_experience,category_normalized,Junior ,Normalized to 'Junior'.
+92,PRJ-0091,developer_experience,category_normalized,Junior ,Normalized to 'Junior'.
+114,PRJ-0113,developer_experience,category_normalized,Mixed ,Normalized to 'Mixed'.
+138,PRJ-0137,developer_experience,category_normalized,MIXED,Normalized to 'Mixed'.
+156,PRJ-0155,developer_experience,category_normalized,mid-level,Normalized to 'Mid-level'.
+173,PRJ-0172,developer_experience,category_normalized,Mid Level,Normalized to 'Mid-level'.
+174,PRJ-0173,developer_experience,category_normalized,junior,Normalized to 'Junior'.
+236,PRJ-0235,developer_experience,category_normalized,MIXED,Normalized to 'Mixed'.
+254,PRJ-0253,developer_experience,category_normalized,JUNIOR,Normalized to 'Junior'.
+355,PRJ-0354,developer_experience,category_normalized,senior,Normalized to 'Senior'.
+365,PRJ-0364,developer_experience,category_normalized,Senior ,Normalized to 'Senior'.
+140,PRJ-0139,num_modules,numeric_suffix_removed,15 modules,Parsed 15; found suffix 'modules'.
+146,PRJ-0145,num_modules,numeric_suffix_removed,14 modules,Parsed 14; found suffix 'modules'.
+243,PRJ-0242,num_modules,numeric_suffix_removed,15 modules,Parsed 15; found suffix 'modules'.
+56,PRJ-0055,num_integrations,numeric_suffix_removed,5 integrations,Parsed 5; found suffix 'integrations'.
+335,PRJ-0334,num_integrations,numeric_suffix_removed,5 integrations,Parsed 5; found suffix 'integrations'.
+340,PRJ-0339,num_integrations,numeric_suffix_removed,1 integrations,Parsed 1; found suffix 'integrations'.
+156,PRJ-0155,num_developers,numeric_suffix_removed,6 developers,Parsed 6; found suffix 'developers'.
+280,PRJ-0279,num_developers,numeric_suffix_removed,3 developers,Parsed 3; found suffix 'developers'.
+339,PRJ-0338,num_developers,numeric_suffix_removed,4 developers,Parsed 4; found suffix 'developers'.

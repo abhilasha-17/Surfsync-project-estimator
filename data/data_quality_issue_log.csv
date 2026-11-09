@@ -1,0 +1,142 @@
+project_id,column,issue,original_value,modified_value
+PRJ-0181,project_type,missing_value,Web Application,
+PRJ-0090,project_type,missing_value,CRM,
+PRJ-0311,project_type,missing_value,CRM,
+PRJ-0052,project_type,missing_value,AI/ML,
+PRJ-0083,project_type,missing_value,Web Application,
+PRJ-0400,project_type,missing_value,CRM,
+PRJ-0251,project_type,missing_value,E-commerce,
+PRJ-0232,project_type,missing_value,Other,
+PRJ-0146,project_type,missing_value,Mobile Application,
+PRJ-0115,project_type,missing_value,AI/ML,
+PRJ-0136,project_type,missing_value,Mobile Application,
+PRJ-0007,project_type,missing_value,Web Application,
+PRJ-0085,num_modules,missing_value,4,
+PRJ-0359,num_modules,missing_value,10,
+PRJ-0192,num_modules,missing_value,15,
+PRJ-0098,num_modules,missing_value,3,
+PRJ-0325,num_modules,missing_value,9,
+PRJ-0044,num_modules,missing_value,4,
+PRJ-0077,num_modules,missing_value,7,
+PRJ-0078,num_modules,missing_value,12,
+PRJ-0369,num_modules,missing_value,5,
+PRJ-0209,num_modules,missing_value,12,
+PRJ-0012,num_modules,missing_value,3,
+PRJ-0144,num_modules,missing_value,4,
+PRJ-0200,num_user_roles,missing_value,8,
+PRJ-0189,num_user_roles,missing_value,6,
+PRJ-0215,num_user_roles,missing_value,4,
+PRJ-0269,num_user_roles,missing_value,5,
+PRJ-0362,num_user_roles,missing_value,1,
+PRJ-0336,num_user_roles,missing_value,3,
+PRJ-0109,num_user_roles,missing_value,3,
+PRJ-0326,num_user_roles,missing_value,1,
+PRJ-0264,num_user_roles,missing_value,5,
+PRJ-0174,num_user_roles,missing_value,8,
+PRJ-0064,num_user_roles,missing_value,1,
+PRJ-0197,num_user_roles,missing_value,2,
+PRJ-0194,num_integrations,missing_value,1,
+PRJ-0007,num_integrations,missing_value,4,
+PRJ-0002,num_integrations,missing_value,5,
+PRJ-0302,num_integrations,missing_value,3,
+PRJ-0187,num_integrations,missing_value,3,
+PRJ-0311,num_integrations,missing_value,2,
+PRJ-0033,num_integrations,missing_value,3,
+PRJ-0175,num_integrations,missing_value,0,
+PRJ-0003,num_integrations,missing_value,4,
+PRJ-0030,num_integrations,missing_value,0,
+PRJ-0171,num_integrations,missing_value,6,
+PRJ-0373,num_integrations,missing_value,4,
+PRJ-0297,ui_ux_complexity,missing_value,High,
+PRJ-0341,ui_ux_complexity,missing_value,Low,
+PRJ-0055,ui_ux_complexity,missing_value,Low,
+PRJ-0372,ui_ux_complexity,missing_value,High,
+PRJ-0064,ui_ux_complexity,missing_value,Medium,
+PRJ-0399,ui_ux_complexity,missing_value,Low,
+PRJ-0378,ui_ux_complexity,missing_value,Medium,
+PRJ-0281,ui_ux_complexity,missing_value,Low,
+PRJ-0155,ui_ux_complexity,missing_value,Low,
+PRJ-0140,ui_ux_complexity,missing_value,Medium,
+PRJ-0274,ui_ux_complexity,missing_value,Medium,
+PRJ-0126,ui_ux_complexity,missing_value,Low,
+PRJ-0390,backend_complexity,missing_value,Medium,
+PRJ-0333,backend_complexity,missing_value,Medium,
+PRJ-0226,backend_complexity,missing_value,Medium,
+PRJ-0301,backend_complexity,missing_value,Low,
+PRJ-0268,backend_complexity,missing_value,High,
+PRJ-0175,backend_complexity,missing_value,High,
+PRJ-0221,backend_complexity,missing_value,Medium,
+PRJ-0176,backend_complexity,missing_value,Low,
+PRJ-0064,backend_complexity,missing_value,High,
+PRJ-0071,backend_complexity,missing_value,Medium,
+PRJ-0189,backend_complexity,missing_value,High,
+PRJ-0074,backend_complexity,missing_value,Low,
+PRJ-0272,num_developers,missing_value,6,
+PRJ-0082,num_developers,missing_value,1,
+PRJ-0204,num_developers,missing_value,4,
+PRJ-0179,num_developers,missing_value,4,
+PRJ-0229,num_developers,missing_value,8,
+PRJ-0232,num_developers,missing_value,1,
+PRJ-0205,num_developers,missing_value,6,
+PRJ-0284,num_developers,missing_value,8,
+PRJ-0172,num_developers,missing_value,5,
+PRJ-0071,num_developers,missing_value,5,
+PRJ-0346,num_developers,missing_value,4,
+PRJ-0160,num_developers,missing_value,8,
+PRJ-0211,developer_experience,missing_value,Mixed,
+PRJ-0264,developer_experience,missing_value,Junior,
+PRJ-0178,developer_experience,missing_value,Senior,
+PRJ-0399,developer_experience,missing_value,Mixed,
+PRJ-0150,developer_experience,missing_value,Junior,
+PRJ-0216,developer_experience,missing_value,Mixed,
+PRJ-0109,developer_experience,missing_value,Mixed,
+PRJ-0353,developer_experience,missing_value,Mid-level,
+PRJ-0188,developer_experience,missing_value,Senior,
+PRJ-0393,developer_experience,missing_value,Senior,
+PRJ-0141,developer_experience,missing_value,Mixed,
+PRJ-0281,developer_experience,missing_value,Junior,
+PRJ-0230,ui_ux_complexity,inconsistent_category,Medium,MEDIUM
+PRJ-0116,ui_ux_complexity,inconsistent_category,Medium,MEDIUM
+PRJ-0038,ui_ux_complexity,inconsistent_category,High,high
+PRJ-0266,ui_ux_complexity,inconsistent_category,Medium,Medium 
+PRJ-0292,ui_ux_complexity,inconsistent_category,High,HIGH
+PRJ-0132,ui_ux_complexity,inconsistent_category,Medium,medium
+PRJ-0070,ui_ux_complexity,inconsistent_category,Medium,MEDIUM
+PRJ-0238,ui_ux_complexity,inconsistent_category,Medium,medium
+PRJ-0329,ui_ux_complexity,inconsistent_category,Medium,medium
+PRJ-0016,ui_ux_complexity,inconsistent_category,Medium,MEDIUM
+PRJ-0072,ui_ux_complexity,inconsistent_category,Medium,medium
+PRJ-0267,ui_ux_complexity,inconsistent_category,High,high
+PRJ-0306,backend_complexity,inconsistent_category,High,HIGH
+PRJ-0322,backend_complexity,inconsistent_category,Medium,medium
+PRJ-0291,backend_complexity,inconsistent_category,Low,Low 
+PRJ-0014,backend_complexity,inconsistent_category,High,HIGH
+PRJ-0081,backend_complexity,inconsistent_category,Medium,medium
+PRJ-0052,backend_complexity,inconsistent_category,Medium,Medium 
+PRJ-0294,backend_complexity,inconsistent_category,Medium,medium
+PRJ-0146,backend_complexity,inconsistent_category,Medium,medium
+PRJ-0127,backend_complexity,inconsistent_category,Medium,Medium 
+PRJ-0256,backend_complexity,inconsistent_category,Low,Low 
+PRJ-0029,backend_complexity,inconsistent_category,Medium,Medium 
+PRJ-0165,backend_complexity,inconsistent_category,Low,LOW
+PRJ-0354,developer_experience,inconsistent_category,Senior,senior
+PRJ-0253,developer_experience,inconsistent_category,Junior,JUNIOR
+PRJ-0113,developer_experience,inconsistent_category,Mixed,Mixed 
+PRJ-0173,developer_experience,inconsistent_category,Junior,junior
+PRJ-0137,developer_experience,inconsistent_category,Mixed,MIXED
+PRJ-0364,developer_experience,inconsistent_category,Senior,Senior 
+PRJ-0155,developer_experience,inconsistent_category,Mid-level,mid-level
+PRJ-0044,developer_experience,inconsistent_category,Senior,SENIOR
+PRJ-0172,developer_experience,inconsistent_category,Mid-level,Mid Level
+PRJ-0091,developer_experience,inconsistent_category,Junior,Junior 
+PRJ-0235,developer_experience,inconsistent_category,Mixed,MIXED
+PRJ-0079,developer_experience,inconsistent_category,Junior,Junior 
+PRJ-0242,num_modules,numeric_value_with_text_suffix,15,15 modules
+PRJ-0145,num_modules,numeric_value_with_text_suffix,14,14 modules
+PRJ-0139,num_modules,numeric_value_with_text_suffix,15,15 modules
+PRJ-0339,num_integrations,numeric_value_with_text_suffix,1,1 integrations
+PRJ-0334,num_integrations,numeric_value_with_text_suffix,5,5 integrations
+PRJ-0055,num_integrations,numeric_value_with_text_suffix,5,5 integrations
+PRJ-0279,num_developers,numeric_value_with_text_suffix,3,3 developers
+PRJ-0155,num_developers,numeric_value_with_text_suffix,6,6 developers
+PRJ-0338,num_developers,numeric_value_with_text_suffix,4,4 developers

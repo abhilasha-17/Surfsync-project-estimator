@@ -1,0 +1,401 @@
+project_id,project_name,project_type,num_modules,num_user_roles,num_integrations,payment_gateway_required,admin_panel_required,mobile_app_required,ai_ml_required,ui_ux_complexity,backend_complexity,num_developers,developer_experience,development_hours,duration_days,development_cost_inr,complexity_level
+PRJ-0001,Synthetic Project 0001,CRM,11,4,3,No,Yes,No,No,High,Low,7,Mid-level,798,26,957600,Medium
+PRJ-0002,Synthetic Project 0002,Mobile Application,4,5,,No,Yes,Yes,No,Medium,Low,6,Mixed,519,26,622800,Medium
+PRJ-0003,Synthetic Project 0003,E-commerce,4,4,,No,No,No,No,Medium,Low,3,Junior,409,24,490800,Medium
+PRJ-0004,Synthetic Project 0004,E-commerce,14,6,2,Yes,Yes,No,No,Low,Medium,8,Mid-level,713,18,855600,Medium
+PRJ-0005,Synthetic Project 0005,E-commerce,15,4,1,Yes,Yes,No,No,Medium,Medium,7,Senior,685,22,822000,Medium
+PRJ-0006,Synthetic Project 0006,Web Application,13,2,5,No,Yes,No,No,Medium,Medium,1,Junior,1009,175,1210800,High
+PRJ-0007,Synthetic Project 0007,,8,6,,No,No,No,No,Medium,Medium,4,Junior,708,44,849600,Medium
+PRJ-0008,Synthetic Project 0008,SaaS,15,2,1,No,Yes,Yes,No,Medium,Medium,4,Mid-level,865,41,1038000,Medium
+PRJ-0009,Synthetic Project 0009,CRM,15,6,2,No,Yes,Yes,Yes,Medium,Medium,4,Junior,986,55,1183200,Very High
+PRJ-0010,Synthetic Project 0010,SaaS,15,2,3,No,Yes,No,No,Medium,Low,6,Junior,695,28,834000,Medium
+PRJ-0011,Synthetic Project 0011,Other,7,8,3,No,No,No,No,Medium,Medium,6,Junior,906,35,1087200,Medium
+PRJ-0012,Synthetic Project 0012,AI/ML,,2,4,No,Yes,Yes,Yes,High,High,2,Senior,679,58,814800,High
+PRJ-0013,Synthetic Project 0013,SaaS,6,5,0,No,Yes,No,Yes,Medium,Medium,5,Junior,588,28,705600,Medium
+PRJ-0014,Synthetic Project 0014,Web Application,4,3,5,No,Yes,No,No,Low,HIGH,2,Mid-level,639,68,766800,Medium
+PRJ-0015,Synthetic Project 0015,CRM,2,1,1,No,No,No,No,Medium,Medium,4,Mid-level,287,16,344400,Low
+PRJ-0016,Synthetic Project 0016,SaaS,5,1,2,No,Yes,No,Yes,MEDIUM,Medium,7,Senior,544,17,652800,Medium
+PRJ-0017,Synthetic Project 0017,CRM,15,7,2,No,Yes,Yes,No,Medium,High,1,Mixed,946,162,1135200,Very High
+PRJ-0018,Synthetic Project 0018,Mobile Application,4,5,4,No,Yes,Yes,No,Low,Low,3,Mid-level,433,29,519600,Medium
+PRJ-0019,Synthetic Project 0019,Other,4,5,0,No,No,No,No,High,Medium,6,Mid-level,402,16,482400,Medium
+PRJ-0020,Synthetic Project 0020,Web Application,12,6,2,No,Yes,Yes,No,Low,Low,3,Mid-level,541,36,649200,Medium
+PRJ-0021,Synthetic Project 0021,AI/ML,2,1,1,No,No,No,Yes,Low,Low,3,Mid-level,265,16,318000,Low
+PRJ-0022,Synthetic Project 0022,Web Application,2,3,6,No,Yes,No,No,High,High,1,Senior,545,82,654000,Medium
+PRJ-0023,Synthetic Project 0023,Web Application,8,1,3,No,Yes,No,No,High,Medium,8,Mixed,792,20,950400,Medium
+PRJ-0024,Synthetic Project 0024,Web Application,10,5,1,Yes,Yes,No,No,Medium,High,6,Mixed,714,26,856800,Medium
+PRJ-0025,Synthetic Project 0025,SaaS,10,7,5,Yes,No,No,No,Medium,Medium,1,Mixed,492,82,590400,Very High
+PRJ-0026,Synthetic Project 0026,E-commerce,6,3,0,Yes,Yes,No,No,Low,Medium,3,Senior,368,25,441600,Low
+PRJ-0027,Synthetic Project 0027,ERP,15,1,6,No,Yes,No,No,Low,High,1,Junior,1537,270,1844400,High
+PRJ-0028,Synthetic Project 0028,Mobile Application,10,2,3,Yes,Yes,Yes,No,Low,Medium,1,Senior,728,114,873600,Medium
+PRJ-0029,Synthetic Project 0029,SaaS,13,3,6,No,No,Yes,No,Low,Medium ,5,Mid-level,714,35,856800,High
+PRJ-0030,Synthetic Project 0030,SaaS,5,1,,No,Yes,No,Yes,High,Low,3,Mixed,520,34,624000,Low
+PRJ-0031,Synthetic Project 0031,AI/ML,5,6,2,No,Yes,No,Yes,Low,Medium,7,Mid-level,489,15,586800,Medium
+PRJ-0032,Synthetic Project 0032,ERP,13,4,5,No,Yes,Yes,No,Medium,Medium,4,Mid-level,714,38,856800,Very High
+PRJ-0033,Synthetic Project 0033,Mobile Application,12,3,,No,Yes,Yes,No,High,Medium,4,Mid-level,805,34,966000,High
+PRJ-0034,Synthetic Project 0034,SaaS,15,7,3,No,Yes,No,No,Medium,Medium,6,Senior,763,25,915600,High
+PRJ-0035,Synthetic Project 0035,ERP,14,2,6,Yes,Yes,Yes,No,Low,High,5,Mixed,711,33,853200,Very High
+PRJ-0036,Synthetic Project 0036,E-commerce,8,7,6,No,Yes,No,Yes,Medium,Low,7,Mid-level,611,16,733200,Very High
+PRJ-0037,Synthetic Project 0037,E-commerce,8,4,4,Yes,No,No,No,High,Low,5,Junior,678,32,813600,Medium
+PRJ-0038,Synthetic Project 0038,Web Application,8,6,5,No,Yes,No,No,high,Medium,4,Mid-level,659,39,790800,High
+PRJ-0039,Synthetic Project 0039,Mobile Application,6,2,6,No,Yes,Yes,No,Medium,Medium,2,Mixed,694,63,832800,Medium
+PRJ-0040,Synthetic Project 0040,CRM,10,4,0,No,Yes,No,Yes,High,Medium,4,Junior,711,37,853200,Medium
+PRJ-0041,Synthetic Project 0041,E-commerce,2,3,3,Yes,No,No,No,Medium,Medium,1,Mixed,420,79,504000,Medium
+PRJ-0042,Synthetic Project 0042,CRM,9,1,2,No,Yes,No,Yes,High,Medium,8,Senior,547,15,656400,Medium
+PRJ-0043,Synthetic Project 0043,Web Application,11,8,6,Yes,Yes,No,No,High,Medium,1,Junior,1322,241,1586400,Very High
+PRJ-0044,Synthetic Project 0044,Web Application,,1,5,No,Yes,No,Yes,High,High,5,SENIOR,493,20,591600,High
+PRJ-0045,Synthetic Project 0045,CRM,13,7,3,Yes,Yes,No,No,Medium,High,1,Junior,855,136,1026000,Very High
+PRJ-0046,Synthetic Project 0046,CRM,2,1,0,No,No,No,Yes,Medium,Low,3,Mixed,314,19,376800,Low
+PRJ-0047,Synthetic Project 0047,CRM,7,2,2,Yes,No,No,No,Medium,Medium,1,Junior,761,132,913200,Medium
+PRJ-0048,Synthetic Project 0048,AI/ML,9,3,2,No,Yes,No,Yes,Low,Medium,5,Mid-level,679,32,814800,Medium
+PRJ-0049,Synthetic Project 0049,SaaS,3,1,6,No,Yes,No,No,Medium,Medium,2,Mid-level,501,46,601200,Medium
+PRJ-0050,Synthetic Project 0050,Web Application,15,5,4,Yes,Yes,No,No,Medium,Medium,3,Senior,791,46,949200,Very High
+PRJ-0051,Synthetic Project 0051,E-commerce,10,6,4,Yes,Yes,No,No,Medium,Medium,3,Senior,555,33,666000,High
+PRJ-0052,Synthetic Project 0052,,3,4,5,No,No,No,Yes,High,Medium ,5,Junior,654,29,784800,High
+PRJ-0053,Synthetic Project 0053,Web Application,14,7,5,No,Yes,Yes,No,Medium,Low,1,Mixed,708,142,849600,Very High
+PRJ-0054,Synthetic Project 0054,ERP,7,3,4,No,Yes,No,No,High,High,2,Mid-level,562,55,674400,Medium
+PRJ-0055,Synthetic Project 0055,E-commerce,4,4,5 integrations,Yes,Yes,Yes,No,,Low,4,Mixed,530,26,636000,Medium
+PRJ-0056,Synthetic Project 0056,Other,15,5,1,No,Yes,No,No,Low,High,7,Mid-level,657,22,788400,Medium
+PRJ-0057,Synthetic Project 0057,SaaS,14,2,2,No,Yes,No,No,Medium,Medium,2,Mid-level,763,70,915600,Medium
+PRJ-0058,Synthetic Project 0058,Web Application,5,2,5,No,Yes,No,No,Low,Medium,7,Mid-level,369,11,442800,Medium
+PRJ-0059,Synthetic Project 0059,Mobile Application,15,7,2,No,No,Yes,No,High,Medium,4,Mixed,961,45,1153200,Very High
+PRJ-0060,Synthetic Project 0060,Mobile Application,10,4,5,Yes,Yes,Yes,No,Medium,Low,5,Mid-level,697,34,836400,High
+PRJ-0061,Synthetic Project 0061,Web Application,5,1,4,No,Yes,No,Yes,Medium,High,8,Senior,760,16,912000,Medium
+PRJ-0062,Synthetic Project 0062,Other,13,5,6,No,No,No,No,High,High,4,Junior,1114,61,1336800,Very High
+PRJ-0063,Synthetic Project 0063,CRM,13,4,4,No,No,No,No,Medium,High,5,Mid-level,982,39,1178400,High
+PRJ-0064,Synthetic Project 0064,Web Application,6,,3,No,No,No,No,,,7,Junior,535,16,642000,Medium
+PRJ-0065,Synthetic Project 0065,E-commerce,9,7,1,No,Yes,No,Yes,Low,Medium,8,Senior,605,20,726000,Medium
+PRJ-0066,Synthetic Project 0066,CRM,2,3,5,No,Yes,No,No,High,Low,6,Mid-level,345,12,414000,Medium
+PRJ-0067,Synthetic Project 0067,E-commerce,9,1,5,No,Yes,No,No,Medium,High,4,Mid-level,656,31,787200,Medium
+PRJ-0068,Synthetic Project 0068,E-commerce,8,4,0,No,Yes,Yes,No,Medium,High,3,Mixed,641,42,769200,Medium
+PRJ-0069,Synthetic Project 0069,Mobile Application,12,4,3,No,No,Yes,No,Medium,Medium,2,Mixed,676,66,811200,High
+PRJ-0070,Synthetic Project 0070,SaaS,6,1,0,Yes,Yes,Yes,No,MEDIUM,Medium,3,Mid-level,451,29,541200,Medium
+PRJ-0071,Synthetic Project 0071,Other,15,7,3,No,No,No,No,High,,,Senior,617,22,740400,Very High
+PRJ-0072,Synthetic Project 0072,E-commerce,10,6,0,Yes,Yes,Yes,No,medium,Medium,3,Senior,452,28,542400,Medium
+PRJ-0073,Synthetic Project 0073,CRM,10,4,6,No,Yes,No,No,High,Low,4,Mid-level,587,34,704400,High
+PRJ-0074,Synthetic Project 0074,Web Application,7,6,2,No,Yes,Yes,No,Low,,8,Mid-level,569,16,682800,Medium
+PRJ-0075,Synthetic Project 0075,Web Application,15,4,1,No,Yes,Yes,No,Low,Medium,5,Mid-level,619,27,742800,Medium
+PRJ-0076,Synthetic Project 0076,Mobile Application,8,4,1,Yes,Yes,Yes,No,Low,Medium,4,Mid-level,493,25,591600,Medium
+PRJ-0077,Synthetic Project 0077,Mobile Application,,4,3,No,Yes,Yes,No,Low,Medium,7,Senior,710,21,852000,Medium
+PRJ-0078,Synthetic Project 0078,Web Application,,3,1,Yes,Yes,No,No,Low,Low,8,Mixed,492,16,590400,Medium
+PRJ-0079,Synthetic Project 0079,Web Application,15,2,5,Yes,Yes,No,No,Medium,High,1,Junior ,1140,187,1368000,Very High
+PRJ-0080,Synthetic Project 0080,ERP,9,5,3,No,No,No,No,Medium,Medium,2,Mixed,641,57,769200,Medium
+PRJ-0081,Synthetic Project 0081,Mobile Application,12,7,1,No,Yes,Yes,No,Medium,medium,3,Junior,1013,74,1215600,High
+PRJ-0082,Synthetic Project 0082,Web Application,12,3,2,Yes,Yes,No,No,Medium,High,,Mid-level,615,96,738000,Medium
+PRJ-0083,Synthetic Project 0083,,12,2,4,Yes,Yes,No,Yes,Low,High,6,Mid-level,860,29,1032000,Very High
+PRJ-0084,Synthetic Project 0084,Web Application,10,8,0,No,Yes,No,Yes,Medium,Medium,8,Senior,514,14,616800,High
+PRJ-0085,Synthetic Project 0085,ERP,,1,0,Yes,No,No,No,Medium,Medium,5,Senior,469,20,562800,Low
+PRJ-0086,Synthetic Project 0086,CRM,12,5,1,No,Yes,No,Yes,High,Medium,7,Mid-level,659,21,790800,High
+PRJ-0087,Synthetic Project 0087,Web Application,12,8,4,No,Yes,No,No,Low,High,4,Mixed,659,42,790800,Very High
+PRJ-0088,Synthetic Project 0088,Web Application,6,4,6,No,Yes,No,No,Medium,High,6,Mid-level,560,21,672000,High
+PRJ-0089,Synthetic Project 0089,Web Application,12,8,4,No,Yes,Yes,No,Low,High,7,Mid-level,704,17,844800,Very High
+PRJ-0090,Synthetic Project 0090,,15,8,4,No,Yes,No,No,Medium,High,4,Mid-level,1175,62,1410000,Very High
+PRJ-0091,Synthetic Project 0091,Web Application,6,3,2,Yes,Yes,No,No,High,Medium,4,Junior ,971,50,1165200,Medium
+PRJ-0092,Synthetic Project 0092,CRM,10,8,2,Yes,Yes,No,No,Medium,Low,3,Mid-level,580,38,696000,Medium
+PRJ-0093,Synthetic Project 0093,Other,5,4,4,Yes,Yes,No,No,High,High,4,Mixed,536,28,643200,High
+PRJ-0094,Synthetic Project 0094,Other,6,7,4,Yes,Yes,No,Yes,High,Medium,1,Mid-level,552,92,662400,Very High
+PRJ-0095,Synthetic Project 0095,Web Application,3,2,3,No,Yes,No,No,Medium,Medium,2,Senior,344,32,412800,Medium
+PRJ-0096,Synthetic Project 0096,CRM,2,1,4,Yes,No,Yes,No,High,Low,8,Mid-level,441,13,529200,Medium
+PRJ-0097,Synthetic Project 0097,SaaS,4,2,6,No,No,No,No,Low,Medium,6,Junior,429,15,514800,Medium
+PRJ-0098,Synthetic Project 0098,AI/ML,,4,0,No,Yes,No,Yes,Medium,Medium,7,Junior,562,16,674400,Medium
+PRJ-0099,Synthetic Project 0099,Web Application,4,5,0,No,Yes,No,No,Medium,Low,4,Junior,386,27,463200,Low
+PRJ-0100,Synthetic Project 0100,AI/ML,2,1,6,No,Yes,No,Yes,Low,High,5,Mixed,589,23,706800,Medium
+PRJ-0101,Synthetic Project 0101,CRM,7,4,5,No,Yes,Yes,No,High,Medium,2,Senior,642,61,770400,High
+PRJ-0102,Synthetic Project 0102,ERP,13,2,1,No,Yes,Yes,No,Medium,Low,8,Mid-level,582,14,698400,Medium
+PRJ-0103,Synthetic Project 0103,Web Application,8,2,5,No,No,No,No,Medium,Medium,6,Mid-level,637,23,764400,Medium
+PRJ-0104,Synthetic Project 0104,SaaS,10,8,3,Yes,Yes,No,Yes,Medium,High,3,Senior,834,50,1000800,Very High
+PRJ-0105,Synthetic Project 0105,Other,8,5,5,No,No,No,No,Medium,Medium,6,Senior,629,22,754800,Medium
+PRJ-0106,Synthetic Project 0106,SaaS,12,8,2,No,Yes,No,No,Low,Low,4,Senior,610,35,732000,Medium
+PRJ-0107,Synthetic Project 0107,E-commerce,12,6,2,Yes,Yes,No,No,Low,Medium,1,Junior,630,111,756000,Medium
+PRJ-0108,Synthetic Project 0108,Mobile Application,12,2,1,No,No,Yes,No,Medium,High,3,Mixed,608,42,729600,Medium
+PRJ-0109,Synthetic Project 0109,E-commerce,12,,2,Yes,No,No,No,Low,Medium,6,,541,16,649200,Medium
+PRJ-0110,Synthetic Project 0110,E-commerce,7,4,1,No,Yes,No,No,Medium,Medium,8,Mid-level,421,14,505200,Medium
+PRJ-0111,Synthetic Project 0111,AI/ML,15,8,2,No,Yes,No,Yes,High,Medium,7,Mid-level,1132,31,1358400,Very High
+PRJ-0112,Synthetic Project 0112,Mobile Application,10,6,4,No,Yes,Yes,No,Low,High,3,Mixed,839,64,1006800,High
+PRJ-0113,Synthetic Project 0113,Web Application,7,1,0,No,No,Yes,No,Low,Medium,3,Mixed ,532,39,638400,Low
+PRJ-0114,Synthetic Project 0114,Web Application,15,2,0,No,No,No,Yes,Low,High,4,Mid-level,876,47,1051200,Medium
+PRJ-0115,Synthetic Project 0115,,5,4,3,No,Yes,No,Yes,Medium,Medium,1,Senior,566,87,679200,Medium
+PRJ-0116,Synthetic Project 0116,E-commerce,2,3,0,Yes,Yes,No,No,MEDIUM,Medium,8,Mid-level,414,12,496800,Low
+PRJ-0117,Synthetic Project 0117,Web Application,7,6,5,No,No,No,No,Medium,High,3,Mixed,697,44,836400,High
+PRJ-0118,Synthetic Project 0118,SaaS,5,6,1,No,Yes,Yes,No,Low,Low,2,Junior,496,47,595200,Medium
+PRJ-0119,Synthetic Project 0119,SaaS,13,7,0,No,No,Yes,Yes,High,High,1,Mid-level,1296,211,1555200,Very High
+PRJ-0120,Synthetic Project 0120,ERP,2,1,2,No,Yes,No,No,High,Medium,4,Mid-level,392,17,470400,Low
+PRJ-0121,Synthetic Project 0121,Web Application,10,2,4,Yes,Yes,Yes,No,High,Medium,7,Mixed,782,27,938400,High
+PRJ-0122,Synthetic Project 0122,Web Application,15,6,1,No,No,No,No,Low,Medium,4,Senior,543,28,651600,Medium
+PRJ-0123,Synthetic Project 0123,Mobile Application,5,5,0,No,No,Yes,No,Low,Low,5,Senior,363,15,435600,Low
+PRJ-0124,Synthetic Project 0124,SaaS,10,3,2,No,No,No,No,Medium,Medium,4,Mid-level,702,34,842400,Medium
+PRJ-0125,Synthetic Project 0125,E-commerce,10,6,5,Yes,Yes,No,No,Low,High,1,Mid-level,765,133,918000,Very High
+PRJ-0126,Synthetic Project 0126,SaaS,13,8,3,Yes,Yes,Yes,No,,Low,1,Mid-level,975,149,1170000,High
+PRJ-0127,Synthetic Project 0127,SaaS,9,2,0,No,Yes,No,Yes,Medium,Medium ,2,Senior,422,32,506400,Medium
+PRJ-0128,Synthetic Project 0128,Web Application,13,8,0,Yes,Yes,Yes,No,Low,High,8,Senior,775,22,930000,High
+PRJ-0129,Synthetic Project 0129,ERP,11,5,1,Yes,Yes,No,No,Medium,High,8,Junior,858,25,1029600,Medium
+PRJ-0130,Synthetic Project 0130,Other,6,4,3,No,Yes,No,No,Low,Medium,4,Junior,471,24,565200,Medium
+PRJ-0131,Synthetic Project 0131,Web Application,13,7,0,No,Yes,No,No,High,High,5,Mid-level,1215,45,1458000,High
+PRJ-0132,Synthetic Project 0132,Mobile Application,5,3,6,No,Yes,Yes,No,medium,Medium,5,Mid-level,637,27,764400,High
+PRJ-0133,Synthetic Project 0133,Web Application,6,2,3,No,Yes,No,No,Medium,High,6,Mixed,521,16,625200,Medium
+PRJ-0134,Synthetic Project 0134,E-commerce,3,3,6,No,Yes,No,No,Low,Low,1,Senior,316,48,379200,Medium
+PRJ-0135,Synthetic Project 0135,E-commerce,3,1,2,No,Yes,No,Yes,High,Medium,6,Mixed,386,13,463200,Medium
+PRJ-0136,Synthetic Project 0136,,13,5,0,Yes,No,Yes,No,Medium,High,3,Mixed,745,53,894000,High
+PRJ-0137,Synthetic Project 0137,ERP,13,2,6,No,Yes,Yes,No,Medium,Medium,5,MIXED,1020,41,1224000,Very High
+PRJ-0138,Synthetic Project 0138,E-commerce,14,4,6,Yes,Yes,No,No,Medium,Medium,3,Mixed,781,49,937200,Very High
+PRJ-0139,Synthetic Project 0139,Web Application,15 modules,5,3,No,Yes,No,No,Medium,Low,4,Mid-level,647,40,776400,Medium
+PRJ-0140,Synthetic Project 0140,SaaS,15,2,3,Yes,Yes,Yes,No,,High,2,Mixed,1201,116,1441200,Very High
+PRJ-0141,Synthetic Project 0141,Web Application,10,6,6,No,Yes,No,Yes,Medium,High,7,,1138,36,1365600,Very High
+PRJ-0142,Synthetic Project 0142,Web Application,4,4,3,No,Yes,No,No,Low,Low,3,Mixed,342,22,410400,Low
+PRJ-0143,Synthetic Project 0143,Web Application,12,5,0,No,Yes,No,Yes,High,Medium,8,Junior,883,23,1059600,High
+PRJ-0144,Synthetic Project 0144,Mobile Application,,5,1,No,Yes,Yes,No,High,High,1,Mixed,607,82,728400,Medium
+PRJ-0145,Synthetic Project 0145,Web Application,14 modules,7,2,No,No,No,No,Medium,Medium,5,Mid-level,658,30,789600,Medium
+PRJ-0146,Synthetic Project 0146,,4,2,0,Yes,No,Yes,No,High,medium,1,Junior,508,89,609600,Medium
+PRJ-0147,Synthetic Project 0147,Web Application,14,2,1,Yes,Yes,No,No,Low,Low,8,Junior,593,16,711600,Medium
+PRJ-0148,Synthetic Project 0148,Web Application,4,1,1,No,Yes,No,No,High,Medium,5,Mixed,377,16,452400,Low
+PRJ-0149,Synthetic Project 0149,AI/ML,3,2,0,Yes,Yes,No,Yes,Medium,High,1,Mid-level,477,86,572400,Medium
+PRJ-0150,Synthetic Project 0150,Web Application,10,3,1,No,Yes,No,No,Low,High,6,,541,17,649200,Medium
+PRJ-0151,Synthetic Project 0151,Web Application,10,4,3,No,Yes,No,No,Medium,Medium,5,Junior,766,30,919200,Medium
+PRJ-0152,Synthetic Project 0152,E-commerce,5,2,5,Yes,No,No,No,Medium,Low,6,Mixed,448,15,537600,Medium
+PRJ-0153,Synthetic Project 0153,E-commerce,12,7,6,Yes,No,No,No,Medium,Medium,4,Mixed,1052,64,1262400,Very High
+PRJ-0154,Synthetic Project 0154,Mobile Application,10,4,4,No,Yes,Yes,No,Low,High,7,Junior,813,28,975600,High
+PRJ-0155,Synthetic Project 0155,Web Application,7,6,0,No,Yes,Yes,No,,Low,6 developers,mid-level,490,14,588000,Medium
+PRJ-0156,Synthetic Project 0156,SaaS,4,5,5,No,Yes,No,No,Low,Medium,7,Mid-level,478,13,573600,Medium
+PRJ-0157,Synthetic Project 0157,Web Application,11,5,5,Yes,Yes,No,No,High,Medium,6,Mixed,778,27,933600,Very High
+PRJ-0158,Synthetic Project 0158,Mobile Application,6,3,1,No,Yes,Yes,No,High,Medium,2,Mid-level,688,61,825600,Medium
+PRJ-0159,Synthetic Project 0159,Web Application,2,2,4,No,Yes,No,No,Medium,Medium,3,Mixed,432,25,518400,Medium
+PRJ-0160,Synthetic Project 0160,Other,8,5,3,No,No,No,Yes,Low,Medium,,Mid-level,662,22,794400,Medium
+PRJ-0161,Synthetic Project 0161,SaaS,8,5,5,No,Yes,No,No,High,High,5,Mixed,722,31,866400,Very High
+PRJ-0162,Synthetic Project 0162,AI/ML,4,2,0,No,Yes,No,Yes,Medium,Medium,4,Mid-level,455,25,546000,Medium
+PRJ-0163,Synthetic Project 0163,Web Application,5,2,5,No,Yes,No,No,Low,Low,1,Mixed,298,47,357600,Medium
+PRJ-0164,Synthetic Project 0164,Mobile Application,14,8,5,No,No,Yes,No,Medium,High,2,Mid-level,884,89,1060800,Very High
+PRJ-0165,Synthetic Project 0165,SaaS,15,4,4,No,No,No,No,Low,LOW,3,Mid-level,602,38,722400,Medium
+PRJ-0166,Synthetic Project 0166,Other,14,1,1,No,No,Yes,No,Medium,Medium,2,Junior,728,66,873600,Medium
+PRJ-0167,Synthetic Project 0167,Web Application,9,4,3,No,Yes,No,No,Medium,Medium,4,Mixed,642,35,770400,Medium
+PRJ-0168,Synthetic Project 0168,Mobile Application,15,6,0,Yes,Yes,Yes,No,Low,Medium,7,Mid-level,1012,27,1214400,High
+PRJ-0169,Synthetic Project 0169,ERP,4,5,3,No,Yes,No,Yes,High,Medium,7,Mid-level,555,20,666000,Medium
+PRJ-0170,Synthetic Project 0170,ERP,10,4,1,Yes,Yes,No,No,High,High,1,Mixed,782,133,938400,High
+PRJ-0171,Synthetic Project 0171,Web Application,9,1,,No,Yes,No,Yes,High,High,7,Senior,690,24,828000,Very High
+PRJ-0172,Synthetic Project 0172,SaaS,2,3,1,No,No,No,No,Low,Medium,,Mid Level,230,9,276000,Low
+PRJ-0173,Synthetic Project 0173,SaaS,9,5,6,No,No,No,No,Medium,Medium,4,junior,682,32,818400,High
+PRJ-0174,Synthetic Project 0174,ERP,8,,0,No,No,No,No,Medium,High,6,Junior,752,24,902400,Medium
+PRJ-0175,Synthetic Project 0175,SaaS,10,8,,No,Yes,No,No,Medium,,3,Mid-level,619,42,742800,Medium
+PRJ-0176,Synthetic Project 0176,E-commerce,6,5,6,Yes,Yes,No,No,Medium,,7,Mid-level,660,21,792000,Medium
+PRJ-0177,Synthetic Project 0177,ERP,12,1,5,No,Yes,No,No,High,High,4,Mixed,803,39,963600,High
+PRJ-0178,Synthetic Project 0178,Web Application,9,5,2,Yes,Yes,Yes,No,Medium,Medium,7,,597,17,716400,High
+PRJ-0179,Synthetic Project 0179,SaaS,3,2,0,No,Yes,No,No,Medium,Medium,,Junior,306,14,367200,Low
+PRJ-0180,Synthetic Project 0180,Other,4,5,4,No,Yes,Yes,Yes,Low,Low,8,Mixed,593,16,711600,Medium
+PRJ-0181,Synthetic Project 0181,,2,1,3,No,No,No,No,Medium,Medium,7,Senior,334,10,400800,Low
+PRJ-0182,Synthetic Project 0182,SaaS,11,3,1,Yes,No,No,No,Low,High,4,Mid-level,671,32,805200,Medium
+PRJ-0183,Synthetic Project 0183,E-commerce,11,7,6,Yes,Yes,Yes,No,High,Medium,1,Mid-level,1392,271,1670400,Very High
+PRJ-0184,Synthetic Project 0184,Mobile Application,6,4,1,No,Yes,Yes,Yes,Medium,Medium,5,Senior,783,33,939600,Medium
+PRJ-0185,Synthetic Project 0185,Web Application,12,4,0,Yes,Yes,No,No,Low,High,4,Mid-level,660,38,792000,Medium
+PRJ-0186,Synthetic Project 0186,CRM,15,4,3,No,No,No,No,Medium,High,4,Junior,925,45,1110000,High
+PRJ-0187,Synthetic Project 0187,SaaS,11,4,,No,Yes,No,No,Low,Medium,8,Junior,769,22,922800,Medium
+PRJ-0188,Synthetic Project 0188,Web Application,11,4,2,No,Yes,No,No,High,Low,7,,497,16,596400,Medium
+PRJ-0189,Synthetic Project 0189,Mobile Application,7,,2,No,Yes,Yes,No,Medium,,4,Mixed,850,37,1020000,High
+PRJ-0190,Synthetic Project 0190,Other,13,2,5,No,Yes,No,No,High,Medium,3,Senior,782,59,938400,High
+PRJ-0191,Synthetic Project 0191,ERP,7,8,2,No,No,No,No,High,High,2,Mixed,679,63,814800,High
+PRJ-0192,Synthetic Project 0192,ERP,,3,0,No,Yes,No,No,Medium,High,3,Mid-level,887,63,1064400,Medium
+PRJ-0193,Synthetic Project 0193,Mobile Application,9,2,3,No,Yes,Yes,No,High,Medium,2,Junior,1127,98,1352400,Medium
+PRJ-0194,Synthetic Project 0194,Mobile Application,3,1,,No,Yes,Yes,Yes,Medium,Low,6,Mixed,492,17,590400,Medium
+PRJ-0195,Synthetic Project 0195,Web Application,9,5,1,No,Yes,No,No,Low,Low,4,Mixed,427,20,512400,Low
+PRJ-0196,Synthetic Project 0196,SaaS,11,2,6,No,Yes,No,No,Medium,Medium,2,Mid-level,923,97,1107600,High
+PRJ-0197,Synthetic Project 0197,Mobile Application,12,,5,No,Yes,Yes,Yes,Medium,Medium,1,Senior,1007,174,1208400,Very High
+PRJ-0198,Synthetic Project 0198,CRM,9,7,1,Yes,Yes,No,No,Low,Medium,6,Mid-level,550,20,660000,Medium
+PRJ-0199,Synthetic Project 0199,SaaS,3,1,0,No,Yes,No,Yes,High,High,7,Junior,655,23,786000,Medium
+PRJ-0200,Synthetic Project 0200,CRM,12,,1,No,Yes,Yes,No,Medium,Medium,8,Mid-level,828,26,993600,High
+PRJ-0201,Synthetic Project 0201,E-commerce,9,2,4,Yes,Yes,No,No,Medium,Medium,6,Mixed,676,26,811200,Medium
+PRJ-0202,Synthetic Project 0202,CRM,2,2,6,Yes,Yes,No,No,Low,High,2,Mid-level,398,33,477600,Medium
+PRJ-0203,Synthetic Project 0203,ERP,12,2,4,No,Yes,No,No,Low,Low,5,Senior,407,16,488400,Medium
+PRJ-0204,Synthetic Project 0204,Mobile Application,6,1,2,No,Yes,Yes,No,High,Medium,,Mixed,521,24,625200,Medium
+PRJ-0205,Synthetic Project 0205,SaaS,13,8,1,Yes,No,No,Yes,Low,Medium,,Junior,799,31,958800,High
+PRJ-0206,Synthetic Project 0206,Mobile Application,8,2,1,No,Yes,Yes,No,Low,Medium,4,Mid-level,500,26,600000,Medium
+PRJ-0207,Synthetic Project 0207,E-commerce,12,1,2,Yes,Yes,No,No,Medium,Medium,1,Mid-level,762,111,914400,Medium
+PRJ-0208,Synthetic Project 0208,Web Application,10,5,5,No,Yes,No,No,Low,Medium,3,Senior,567,37,680400,Medium
+PRJ-0209,Synthetic Project 0209,Mobile Application,,7,3,No,No,Yes,Yes,Medium,Medium,6,Junior,1107,34,1328400,Very High
+PRJ-0210,Synthetic Project 0210,Mobile Application,3,4,1,No,No,Yes,No,Medium,High,1,Mid-level,423,71,507600,Medium
+PRJ-0211,Synthetic Project 0211,Web Application,4,1,5,No,Yes,Yes,No,High,Medium,8,,565,13,678000,Medium
+PRJ-0212,Synthetic Project 0212,Mobile Application,14,5,5,No,Yes,Yes,No,Medium,Medium,7,Mixed,1001,33,1201200,Very High
+PRJ-0213,Synthetic Project 0213,Web Application,11,3,1,No,Yes,No,No,Medium,Medium,1,Mid-level,678,118,813600,Medium
+PRJ-0214,Synthetic Project 0214,Mobile Application,6,6,3,No,No,Yes,No,Low,High,4,Mid-level,557,35,668400,Medium
+PRJ-0215,Synthetic Project 0215,Web Application,9,,3,Yes,Yes,Yes,No,High,Medium,1,Senior,743,135,891600,High
+PRJ-0216,Synthetic Project 0216,CRM,11,8,3,Yes,Yes,No,No,Medium,Low,3,,950,60,1140000,High
+PRJ-0217,Synthetic Project 0217,Mobile Application,5,1,6,Yes,Yes,Yes,Yes,Medium,Low,1,Mid-level,708,129,849600,High
+PRJ-0218,Synthetic Project 0218,Mobile Application,15,3,2,Yes,Yes,Yes,No,High,High,3,Mixed,909,52,1090800,Very High
+PRJ-0219,Synthetic Project 0219,SaaS,13,5,6,No,No,No,No,Medium,High,3,Mixed,824,49,988800,Very High
+PRJ-0220,Synthetic Project 0220,Mobile Application,2,3,3,No,No,Yes,Yes,Medium,Low,1,Senior,451,78,541200,Medium
+PRJ-0221,Synthetic Project 0221,ERP,13,5,3,Yes,Yes,No,Yes,Medium,,7,Mid-level,891,22,1069200,Very High
+PRJ-0222,Synthetic Project 0222,SaaS,2,3,1,No,Yes,No,No,Medium,Medium,3,Mid-level,326,22,391200,Low
+PRJ-0223,Synthetic Project 0223,Web Application,12,3,4,No,No,No,No,High,High,5,Mixed,636,24,763200,High
+PRJ-0224,Synthetic Project 0224,Web Application,14,5,3,No,Yes,No,No,Low,Medium,2,Senior,561,53,673200,Medium
+PRJ-0225,Synthetic Project 0225,Web Application,6,5,1,Yes,Yes,No,No,Low,High,7,Mixed,513,15,615600,Medium
+PRJ-0226,Synthetic Project 0226,Web Application,5,2,0,No,Yes,Yes,Yes,High,,5,Mixed,639,28,766800,Medium
+PRJ-0227,Synthetic Project 0227,SaaS,12,8,6,Yes,No,No,No,Medium,Medium,1,Mid-level,757,127,908400,Very High
+PRJ-0228,Synthetic Project 0228,Web Application,9,8,6,No,Yes,Yes,No,Medium,Medium,3,Junior,924,70,1108800,Very High
+PRJ-0229,Synthetic Project 0229,AI/ML,14,6,2,Yes,Yes,No,Yes,Medium,Medium,,Junior,1082,30,1298400,Very High
+PRJ-0230,Synthetic Project 0230,Mobile Application,9,3,4,Yes,Yes,Yes,No,MEDIUM,Medium,4,Mid-level,879,42,1054800,High
+PRJ-0231,Synthetic Project 0231,CRM,2,2,2,No,Yes,No,No,Low,Medium,5,Senior,253,11,303600,Low
+PRJ-0232,Synthetic Project 0232,,13,4,0,No,Yes,No,No,Medium,High,,Senior,712,104,854400,Medium
+PRJ-0233,Synthetic Project 0233,E-commerce,8,7,4,No,Yes,No,No,High,Medium,7,Mid-level,634,21,760800,High
+PRJ-0234,Synthetic Project 0234,Web Application,14,3,4,Yes,Yes,No,No,Low,Medium,6,Mixed,824,31,988800,High
+PRJ-0235,Synthetic Project 0235,CRM,10,5,1,No,Yes,No,Yes,Low,High,3,MIXED,782,66,938400,Medium
+PRJ-0236,Synthetic Project 0236,CRM,4,3,1,No,Yes,No,No,Medium,High,4,Mixed,526,25,631200,Medium
+PRJ-0237,Synthetic Project 0237,Web Application,7,4,0,No,Yes,Yes,No,Medium,High,2,Junior,838,76,1005600,Medium
+PRJ-0238,Synthetic Project 0238,Web Application,2,2,5,No,No,Yes,No,medium,Medium,1,Mid-level,529,84,634800,Medium
+PRJ-0239,Synthetic Project 0239,Mobile Application,6,6,2,No,Yes,Yes,No,Medium,Medium,2,Junior,694,66,832800,Medium
+PRJ-0240,Synthetic Project 0240,Web Application,11,1,3,No,Yes,Yes,No,High,Low,6,Junior,863,32,1035600,Medium
+PRJ-0241,Synthetic Project 0241,Web Application,9,7,5,No,Yes,No,No,Medium,High,2,Junior,1046,97,1255200,Very High
+PRJ-0242,Synthetic Project 0242,ERP,15 modules,1,2,No,Yes,No,No,Medium,Medium,4,Mid-level,672,38,806400,Medium
+PRJ-0243,Synthetic Project 0243,SaaS,7,3,4,No,Yes,Yes,No,Medium,Low,3,Senior,476,30,571200,Medium
+PRJ-0244,Synthetic Project 0244,ERP,3,1,3,Yes,Yes,No,No,Low,High,2,Junior,526,54,631200,Medium
+PRJ-0245,Synthetic Project 0245,E-commerce,6,6,5,Yes,Yes,No,No,Low,Low,3,Mid-level,527,37,632400,Medium
+PRJ-0246,Synthetic Project 0246,E-commerce,5,5,4,No,No,No,No,Medium,Medium,7,Mixed,417,13,500400,Medium
+PRJ-0247,Synthetic Project 0247,E-commerce,14,8,3,Yes,Yes,Yes,No,Medium,Low,4,Mixed,850,42,1020000,Very High
+PRJ-0248,Synthetic Project 0248,Web Application,3,1,5,Yes,No,No,Yes,Medium,Medium,7,Senior,501,20,601200,Medium
+PRJ-0249,Synthetic Project 0249,ERP,14,6,6,No,Yes,No,No,Medium,Medium,5,Senior,546,21,655200,Very High
+PRJ-0250,Synthetic Project 0250,Other,8,2,0,No,Yes,No,Yes,Medium,Medium,2,Mid-level,589,57,706800,Medium
+PRJ-0251,Synthetic Project 0251,,10,6,1,Yes,Yes,No,No,Low,Medium,6,Mid-level,585,20,702000,Medium
+PRJ-0252,Synthetic Project 0252,AI/ML,9,6,2,No,Yes,No,Yes,High,Medium,1,Mid-level,769,154,922800,High
+PRJ-0253,Synthetic Project 0253,Mobile Application,12,4,5,No,Yes,Yes,No,Low,Low,7,JUNIOR,1046,35,1255200,Medium
+PRJ-0254,Synthetic Project 0254,Mobile Application,14,8,2,Yes,Yes,Yes,No,High,Medium,5,Senior,729,29,874800,Very High
+PRJ-0255,Synthetic Project 0255,ERP,10,1,6,No,Yes,Yes,No,High,Medium,5,Mid-level,734,32,880800,High
+PRJ-0256,Synthetic Project 0256,Web Application,12,7,4,Yes,Yes,No,No,Medium,Low ,4,Mixed,469,25,562800,High
+PRJ-0257,Synthetic Project 0257,AI/ML,2,2,5,No,Yes,Yes,Yes,Low,Medium,6,Mixed,529,18,634800,Medium
+PRJ-0258,Synthetic Project 0258,Web Application,2,1,6,Yes,Yes,No,No,Medium,High,5,Junior,582,26,698400,Medium
+PRJ-0259,Synthetic Project 0259,AI/ML,2,3,6,No,Yes,No,Yes,Medium,Low,7,Mixed,450,15,540000,Medium
+PRJ-0260,Synthetic Project 0260,E-commerce,4,4,1,Yes,Yes,No,No,Medium,Medium,4,Mid-level,527,28,632400,Medium
+PRJ-0261,Synthetic Project 0261,Mobile Application,2,3,3,No,Yes,Yes,No,Medium,Medium,2,Mixed,535,50,642000,Medium
+PRJ-0262,Synthetic Project 0262,Mobile Application,9,6,6,No,Yes,Yes,Yes,Medium,Medium,1,Senior,847,148,1016400,Very High
+PRJ-0263,Synthetic Project 0263,SaaS,11,5,2,Yes,Yes,No,No,Low,Medium,4,Senior,547,29,656400,Medium
+PRJ-0264,Synthetic Project 0264,ERP,7,,1,No,No,Yes,No,Low,High,5,,810,34,972000,Medium
+PRJ-0265,Synthetic Project 0265,Web Application,6,1,4,No,Yes,No,No,High,High,4,Senior,571,28,685200,Medium
+PRJ-0266,Synthetic Project 0266,Web Application,13,3,5,Yes,Yes,No,No,Medium ,Medium,8,Mid-level,714,23,856800,High
+PRJ-0267,Synthetic Project 0267,CRM,8,1,0,No,Yes,No,No,high,High,2,Mid-level,459,39,550800,Medium
+PRJ-0268,Synthetic Project 0268,CRM,3,2,0,Yes,No,No,No,High,,4,Mid-level,430,23,516000,Medium
+PRJ-0269,Synthetic Project 0269,AI/ML,14,,1,No,Yes,No,Yes,Low,Low,4,Mid-level,823,41,987600,Medium
+PRJ-0270,Synthetic Project 0270,AI/ML,9,6,4,No,Yes,Yes,Yes,High,Low,5,Senior,1117,56,1340400,Very High
+PRJ-0271,Synthetic Project 0271,CRM,15,5,2,No,No,No,No,Medium,High,7,Mixed,824,23,988800,High
+PRJ-0272,Synthetic Project 0272,SaaS,5,5,2,No,No,No,No,Low,Medium,,Mixed,332,11,398400,Low
+PRJ-0273,Synthetic Project 0273,SaaS,14,4,3,No,No,No,Yes,Medium,Medium,2,Senior,643,55,771600,High
+PRJ-0274,Synthetic Project 0274,SaaS,5,3,3,No,Yes,No,No,,Medium,4,Mixed,505,27,606000,Medium
+PRJ-0275,Synthetic Project 0275,ERP,5,1,0,No,Yes,No,No,Medium,Medium,5,Mixed,279,11,334800,Low
+PRJ-0276,Synthetic Project 0276,Mobile Application,2,3,1,No,Yes,Yes,No,Low,Medium,8,Mixed,399,11,478800,Low
+PRJ-0277,Synthetic Project 0277,E-commerce,11,5,0,No,Yes,No,No,Low,Low,4,Senior,496,21,595200,Low
+PRJ-0278,Synthetic Project 0278,Other,3,1,2,Yes,No,No,No,High,Low,2,Mid-level,373,36,447600,Low
+PRJ-0279,Synthetic Project 0279,SaaS,14,7,1,No,Yes,No,No,Low,Medium,3 developers,Mixed,663,42,795600,Medium
+PRJ-0280,Synthetic Project 0280,Web Application,11,3,1,No,Yes,No,No,Medium,High,5,Mid-level,756,27,907200,Medium
+PRJ-0281,Synthetic Project 0281,Web Application,6,6,3,No,Yes,No,No,,Medium,2,,570,59,684000,Medium
+PRJ-0282,Synthetic Project 0282,Web Application,2,3,3,Yes,No,No,No,Medium,Medium,7,Mid-level,337,9,404400,Medium
+PRJ-0283,Synthetic Project 0283,E-commerce,12,8,4,Yes,Yes,No,No,Medium,High,1,Mixed,1170,212,1404000,Very High
+PRJ-0284,Synthetic Project 0284,Web Application,6,6,1,Yes,No,No,No,Medium,Medium,,Junior,538,14,645600,Medium
+PRJ-0285,Synthetic Project 0285,Web Application,13,1,0,No,Yes,No,No,Medium,High,6,Mid-level,803,34,963600,Medium
+PRJ-0286,Synthetic Project 0286,ERP,11,1,3,No,No,No,No,Medium,Medium,6,Senior,373,15,447600,Medium
+PRJ-0287,Synthetic Project 0287,Other,2,2,4,No,Yes,No,No,Medium,Low,1,Junior,443,67,531600,Low
+PRJ-0288,Synthetic Project 0288,Web Application,4,5,1,Yes,Yes,No,No,Medium,Medium,6,Mixed,560,18,672000,Medium
+PRJ-0289,Synthetic Project 0289,Mobile Application,11,6,4,No,No,Yes,No,Medium,Medium,1,Mixed,777,138,932400,High
+PRJ-0290,Synthetic Project 0290,CRM,3,1,6,No,No,No,No,Medium,Medium,4,Mid-level,466,23,559200,Medium
+PRJ-0291,Synthetic Project 0291,Web Application,4,4,2,No,Yes,Yes,No,Low,Low ,4,Senior,391,20,469200,Low
+PRJ-0292,Synthetic Project 0292,Mobile Application,10,4,1,No,Yes,Yes,No,HIGH,Medium,4,Mid-level,677,39,812400,Medium
+PRJ-0293,Synthetic Project 0293,CRM,2,2,6,No,Yes,Yes,No,Low,Medium,4,Mid-level,526,25,631200,Medium
+PRJ-0294,Synthetic Project 0294,AI/ML,5,1,5,No,Yes,No,Yes,Low,medium,5,Mid-level,499,21,598800,Medium
+PRJ-0295,Synthetic Project 0295,SaaS,6,4,3,Yes,Yes,No,No,Medium,Medium,1,Junior,577,106,692400,Medium
+PRJ-0296,Synthetic Project 0296,AI/ML,7,1,4,Yes,No,No,Yes,Medium,High,2,Junior,1025,104,1230000,High
+PRJ-0297,Synthetic Project 0297,Other,7,2,6,No,Yes,No,Yes,,Medium,5,Senior,817,34,980400,High
+PRJ-0298,Synthetic Project 0298,Other,10,1,2,No,Yes,Yes,No,Medium,Medium,8,Junior,705,19,846000,Medium
+PRJ-0299,Synthetic Project 0299,Mobile Application,5,6,6,No,No,Yes,Yes,Low,Medium,1,Junior,731,103,877200,Very High
+PRJ-0300,Synthetic Project 0300,E-commerce,5,5,2,Yes,Yes,No,No,Medium,High,5,Senior,473,18,567600,Medium
+PRJ-0301,Synthetic Project 0301,SaaS,12,3,4,Yes,Yes,No,No,High,,1,Mid-level,830,143,996000,High
+PRJ-0302,Synthetic Project 0302,SaaS,3,2,,No,No,Yes,No,Low,High,7,Mid-level,413,13,495600,Medium
+PRJ-0303,Synthetic Project 0303,Mobile Application,11,2,3,Yes,No,Yes,No,High,Low,1,Mid-level,782,132,938400,Medium
+PRJ-0304,Synthetic Project 0304,Mobile Application,14,5,2,No,Yes,Yes,No,Medium,Medium,3,Junior,1112,81,1334400,High
+PRJ-0305,Synthetic Project 0305,AI/ML,15,5,2,No,Yes,No,Yes,High,Medium,7,Mid-level,956,26,1147200,Very High
+PRJ-0306,Synthetic Project 0306,Web Application,12,5,1,Yes,Yes,No,No,Medium,HIGH,1,Mixed,902,147,1082400,High
+PRJ-0307,Synthetic Project 0307,Mobile Application,14,5,6,No,Yes,Yes,No,High,Low,5,Mixed,872,37,1046400,Very High
+PRJ-0308,Synthetic Project 0308,E-commerce,8,2,1,Yes,No,No,Yes,Low,High,6,Mid-level,638,21,765600,Medium
+PRJ-0309,Synthetic Project 0309,AI/ML,8,7,3,No,Yes,No,Yes,Low,Medium,6,Mid-level,583,24,699600,High
+PRJ-0310,Synthetic Project 0310,SaaS,6,6,4,No,Yes,Yes,No,High,Medium,4,Mid-level,843,47,1011600,High
+PRJ-0311,Synthetic Project 0311,,7,1,,Yes,No,No,No,Low,Low,3,Senior,291,20,349200,Low
+PRJ-0312,Synthetic Project 0312,Mobile Application,5,6,4,No,Yes,Yes,No,Medium,Medium,7,Mixed,652,24,782400,High
+PRJ-0313,Synthetic Project 0313,Mobile Application,4,5,3,No,No,Yes,No,Medium,Medium,1,Junior,603,87,723600,Medium
+PRJ-0314,Synthetic Project 0314,Web Application,9,3,1,No,Yes,No,No,Medium,Medium,5,Junior,536,23,643200,Medium
+PRJ-0315,Synthetic Project 0315,CRM,2,2,2,No,No,No,No,High,Medium,1,Senior,297,52,356400,Low
+PRJ-0316,Synthetic Project 0316,E-commerce,12,3,1,Yes,Yes,No,No,Medium,Medium,2,Mid-level,856,73,1027200,Medium
+PRJ-0317,Synthetic Project 0317,SaaS,13,8,2,No,No,No,No,Low,Low,7,Mid-level,617,20,740400,Medium
+PRJ-0318,Synthetic Project 0318,Mobile Application,4,1,6,Yes,No,Yes,No,Medium,Medium,8,Mid-level,507,13,608400,Medium
+PRJ-0319,Synthetic Project 0319,E-commerce,8,2,0,Yes,Yes,No,No,Medium,Medium,8,Junior,632,19,758400,Medium
+PRJ-0320,Synthetic Project 0320,E-commerce,13,3,6,Yes,Yes,No,No,Low,Low,3,Mid-level,692,51,830400,High
+PRJ-0321,Synthetic Project 0321,Web Application,10,6,5,No,No,Yes,Yes,Medium,High,8,Mixed,1671,47,2005200,Very High
+PRJ-0322,Synthetic Project 0322,Web Application,2,3,0,No,Yes,No,Yes,High,medium,4,Senior,456,20,547200,Medium
+PRJ-0323,Synthetic Project 0323,CRM,4,5,2,Yes,Yes,No,Yes,Low,Medium,2,Junior,591,50,709200,Medium
+PRJ-0324,Synthetic Project 0324,Web Application,12,8,3,No,No,Yes,No,Medium,Medium,3,Junior,1182,82,1418400,Very High
+PRJ-0325,Synthetic Project 0325,Web Application,,1,5,No,Yes,No,No,Medium,Low,5,Mixed,402,17,482400,Medium
+PRJ-0326,Synthetic Project 0326,Mobile Application,11,,0,No,Yes,Yes,No,Low,Low,5,Junior,630,20,756000,Low
+PRJ-0327,Synthetic Project 0327,CRM,4,5,1,No,Yes,Yes,No,Medium,Medium,2,Mid-level,707,75,848400,Medium
+PRJ-0328,Synthetic Project 0328,E-commerce,10,1,3,No,No,No,No,Medium,High,2,Mid-level,641,61,769200,Medium
+PRJ-0329,Synthetic Project 0329,Web Application,5,1,1,Yes,Yes,No,No,medium,Low,1,Senior,249,39,298800,Low
+PRJ-0330,Synthetic Project 0330,Mobile Application,10,1,5,No,Yes,Yes,No,High,Medium,3,Junior,878,64,1053600,High
+PRJ-0331,Synthetic Project 0331,ERP,15,6,3,No,Yes,No,Yes,Medium,Low,2,Junior,1270,111,1524000,High
+PRJ-0332,Synthetic Project 0332,Web Application,8,8,1,No,Yes,No,No,High,Medium,3,Junior,769,47,922800,Medium
+PRJ-0333,Synthetic Project 0333,E-commerce,6,3,1,No,Yes,No,No,Medium,,7,Junior,459,15,550800,Low
+PRJ-0334,Synthetic Project 0334,ERP,3,1,5 integrations,No,Yes,Yes,No,Low,Medium,3,Mid-level,429,34,514800,Medium
+PRJ-0335,Synthetic Project 0335,Web Application,8,2,6,No,Yes,No,No,Medium,High,7,Senior,579,21,694800,High
+PRJ-0336,Synthetic Project 0336,ERP,4,,2,No,Yes,No,Yes,Medium,Low,5,Junior,568,25,681600,Medium
+PRJ-0337,Synthetic Project 0337,E-commerce,2,2,0,Yes,Yes,No,No,Medium,Medium,4,Mid-level,410,22,492000,Low
+PRJ-0338,Synthetic Project 0338,Other,7,7,6,No,Yes,No,No,Medium,High,4 developers,Senior,774,43,928800,Very High
+PRJ-0339,Synthetic Project 0339,Web Application,14,1,1 integrations,No,Yes,No,No,Medium,Medium,1,Mid-level,742,110,890400,Medium
+PRJ-0340,Synthetic Project 0340,Web Application,4,4,6,Yes,Yes,Yes,No,Medium,High,1,Senior,535,96,642000,Very High
+PRJ-0341,Synthetic Project 0341,ERP,15,4,0,No,Yes,No,No,,Medium,7,Mid-level,547,16,656400,Medium
+PRJ-0342,Synthetic Project 0342,Mobile Application,6,4,3,No,Yes,Yes,No,High,Low,8,Junior,745,21,894000,Medium
+PRJ-0343,Synthetic Project 0343,SaaS,8,6,5,No,No,No,Yes,Low,Low,7,Mid-level,493,15,591600,Medium
+PRJ-0344,Synthetic Project 0344,SaaS,6,3,3,No,Yes,No,No,Medium,Medium,5,Mid-level,486,22,583200,Medium
+PRJ-0345,Synthetic Project 0345,Mobile Application,11,3,4,No,Yes,Yes,No,High,Low,6,Mixed,790,29,948000,High
+PRJ-0346,Synthetic Project 0346,Web Application,7,5,5,Yes,No,No,No,Medium,High,,Mixed,561,21,673200,High
+PRJ-0347,Synthetic Project 0347,E-commerce,9,2,3,Yes,No,No,No,Low,Medium,6,Mixed,449,17,538800,Medium
+PRJ-0348,Synthetic Project 0348,Web Application,5,5,6,Yes,Yes,No,No,Low,High,8,Mid-level,615,18,738000,High
+PRJ-0349,Synthetic Project 0349,AI/ML,2,3,5,No,Yes,No,Yes,Low,Medium,7,Junior,616,20,739200,Medium
+PRJ-0350,Synthetic Project 0350,SaaS,9,1,3,Yes,Yes,No,Yes,High,High,3,Mid-level,1032,67,1238400,High
+PRJ-0351,Synthetic Project 0351,E-commerce,3,2,2,Yes,Yes,No,No,High,Medium,2,Mid-level,514,57,616800,Medium
+PRJ-0352,Synthetic Project 0352,Other,8,2,5,No,Yes,No,Yes,Medium,Medium,1,Junior,849,146,1018800,High
+PRJ-0353,Synthetic Project 0353,Web Application,14,3,0,No,Yes,No,No,High,Medium,8,,659,19,790800,Medium
+PRJ-0354,Synthetic Project 0354,Web Application,2,1,1,No,No,No,Yes,High,Medium,8,senior,344,11,412800,Medium
+PRJ-0355,Synthetic Project 0355,Web Application,7,3,5,No,Yes,No,No,High,Medium,7,Mid-level,589,19,706800,Medium
+PRJ-0356,Synthetic Project 0356,E-commerce,8,4,2,Yes,No,No,No,Medium,Medium,5,Senior,539,21,646800,Medium
+PRJ-0357,Synthetic Project 0357,ERP,14,5,3,No,Yes,No,No,Medium,Medium,6,Junior,949,27,1138800,High
+PRJ-0358,Synthetic Project 0358,ERP,9,5,2,No,Yes,No,No,High,Medium,2,Mid-level,467,42,560400,Medium
+PRJ-0359,Synthetic Project 0359,Web Application,,6,6,No,Yes,No,No,Medium,High,6,Senior,644,25,772800,Very High
+PRJ-0360,Synthetic Project 0360,Other,5,6,3,No,Yes,Yes,No,High,Medium,8,Mixed,784,21,940800,High
+PRJ-0361,Synthetic Project 0361,Web Application,10,4,5,No,Yes,Yes,No,Medium,Low,5,Junior,834,38,1000800,High
+PRJ-0362,Synthetic Project 0362,SaaS,2,,4,No,Yes,No,No,Medium,High,6,Mid-level,361,13,433200,Medium
+PRJ-0363,Synthetic Project 0363,AI/ML,8,2,0,No,Yes,No,Yes,Low,High,3,Mixed,900,67,1080000,Medium
+PRJ-0364,Synthetic Project 0364,E-commerce,5,3,1,Yes,No,No,No,Medium,Medium,5,Senior ,385,16,462000,Medium
+PRJ-0365,Synthetic Project 0365,SaaS,3,4,6,No,No,No,No,High,Medium,2,Senior,492,48,590400,Medium
+PRJ-0366,Synthetic Project 0366,Web Application,5,2,6,No,Yes,No,No,Medium,Low,4,Senior,439,24,526800,Medium
+PRJ-0367,Synthetic Project 0367,ERP,10,4,4,No,No,No,No,High,Medium,6,Mixed,638,26,765600,Medium
+PRJ-0368,Synthetic Project 0368,Mobile Application,5,5,3,Yes,No,Yes,No,High,High,1,Mid-level,650,92,780000,High
+PRJ-0369,Synthetic Project 0369,Mobile Application,,1,0,Yes,No,Yes,Yes,Low,Medium,5,Junior,895,36,1074000,Medium
+PRJ-0370,Synthetic Project 0370,Web Application,6,5,2,No,No,No,No,Medium,Low,3,Mid-level,464,33,556800,Medium
+PRJ-0371,Synthetic Project 0371,Other,9,5,1,No,No,No,No,High,Medium,3,Senior,613,47,735600,Medium
+PRJ-0372,Synthetic Project 0372,Web Application,4,1,5,No,Yes,No,Yes,,Medium,8,Mixed,694,20,832800,Medium
+PRJ-0373,Synthetic Project 0373,SaaS,11,3,,No,Yes,Yes,No,Medium,Medium,1,Mid-level,671,109,805200,High
+PRJ-0374,Synthetic Project 0374,ERP,12,3,6,No,Yes,No,Yes,Low,Medium,2,Mixed,1007,101,1208400,High
+PRJ-0375,Synthetic Project 0375,Web Application,5,2,6,No,Yes,No,No,Low,Low,8,Mid-level,352,11,422400,Medium
+PRJ-0376,Synthetic Project 0376,E-commerce,14,3,5,Yes,Yes,No,No,Medium,Medium,5,Mid-level,885,36,1062000,High
+PRJ-0377,Synthetic Project 0377,Web Application,2,3,0,No,Yes,Yes,Yes,Medium,High,2,Senior,418,41,501600,Medium
+PRJ-0378,Synthetic Project 0378,Mobile Application,11,1,1,Yes,Yes,Yes,No,,Medium,5,Junior,607,29,728400,Medium
+PRJ-0379,Synthetic Project 0379,Web Application,2,2,5,Yes,Yes,No,Yes,Low,Medium,8,Senior,493,17,591600,Medium
+PRJ-0380,Synthetic Project 0380,SaaS,14,6,5,No,No,No,No,High,High,7,Mixed,808,27,969600,Very High
+PRJ-0381,Synthetic Project 0381,AI/ML,10,4,1,No,No,No,Yes,High,High,6,Mixed,583,21,699600,High
+PRJ-0382,Synthetic Project 0382,Mobile Application,9,6,0,No,No,Yes,No,Medium,Low,7,Mixed,592,18,710400,Medium
+PRJ-0383,Synthetic Project 0383,Mobile Application,8,6,6,No,Yes,Yes,No,High,Medium,7,Junior,1337,44,1604400,Very High
+PRJ-0384,Synthetic Project 0384,CRM,4,2,6,No,Yes,Yes,No,Medium,High,8,Mid-level,844,23,1012800,High
+PRJ-0385,Synthetic Project 0385,Mobile Application,8,3,1,No,Yes,Yes,No,Medium,Low,3,Mid-level,523,35,627600,Medium
+PRJ-0386,Synthetic Project 0386,Web Application,7,7,5,No,Yes,No,No,High,Medium,5,Mixed,670,25,804000,High
+PRJ-0387,Synthetic Project 0387,ERP,6,4,3,Yes,No,No,Yes,High,High,6,Mid-level,894,36,1072800,High
+PRJ-0388,Synthetic Project 0388,SaaS,11,8,1,Yes,Yes,No,No,Medium,Low,8,Junior,872,21,1046400,Medium
+PRJ-0389,Synthetic Project 0389,E-commerce,3,3,3,Yes,Yes,No,Yes,Low,Medium,6,Junior,562,19,674400,Medium
+PRJ-0390,Synthetic Project 0390,Web Application,2,1,3,No,No,No,No,Low,,6,Junior,309,11,370800,Low
+PRJ-0391,Synthetic Project 0391,SaaS,6,3,6,No,Yes,No,No,Medium,Medium,4,Junior,695,43,834000,Medium
+PRJ-0392,Synthetic Project 0392,CRM,7,5,2,No,No,No,No,Medium,Medium,3,Mid-level,549,35,658800,Medium
+PRJ-0393,Synthetic Project 0393,Mobile Application,3,2,4,Yes,No,Yes,No,Medium,Medium,6,,464,16,556800,Medium
+PRJ-0394,Synthetic Project 0394,E-commerce,2,3,6,Yes,Yes,No,No,Medium,Medium,5,Mid-level,477,19,572400,Medium
+PRJ-0395,Synthetic Project 0395,SaaS,8,5,1,No,Yes,No,Yes,Medium,Low,2,Senior,664,73,796800,Medium
+PRJ-0396,Synthetic Project 0396,Mobile Application,5,6,3,No,Yes,Yes,No,Medium,Medium,3,Mid-level,734,37,880800,Medium
+PRJ-0397,Synthetic Project 0397,Web Application,13,1,4,No,Yes,No,Yes,Medium,High,8,Mixed,984,24,1180800,High
+PRJ-0398,Synthetic Project 0398,CRM,14,4,1,Yes,No,No,No,Medium,Low,8,Senior,775,28,930000,Medium
+PRJ-0399,Synthetic Project 0399,SaaS,11,5,5,No,Yes,No,Yes,,Low,8,,672,20,806400,High
+PRJ-0400,Synthetic Project 0400,,5,4,0,No,No,No,No,High,Medium,3,Mid-level,563,33,675600,Low

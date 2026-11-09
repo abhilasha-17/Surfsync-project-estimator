@@ -1,0 +1,236 @@
+# SurfSync Project Estimator API
+
+The FastAPI backend validates project requirements, predicts development hours and duration, derives cost, and calculates a rule-based complexity level.
+
+## Base URL
+
+Local:
+
+```text
+http://127.0.0.1:8000
+```
+
+Deployed:
+
+```text
+https://YOUR-API-SERVICE.onrender.com
+```
+
+Interactive API documentation is available at `/docs`; the OpenAPI schema is at `/openapi.json`.
+
+## Endpoints
+
+| Method | Path | Purpose |
+|---|---|---|
+| GET | `/health` | Check API status and whether the prediction models loaded |
+| GET | `/model-info` | View model names, input features, assumptions, and available evaluation metrics |
+| POST | `/predict` | Validate project requirements and return an estimate |
+
+## `GET /health`
+
+Example:
+
+```http
+GET /health
+```
+
+Success response:
+
+```json
+{
+  "status": "ok",
+  "models_loaded": true,
+  "message": "Models ready"
+}
+```
+
+Check that `models_loaded` is `true` before relying on predictions. The API can respond with status `ok` even if the model files did not load.
+
+## `GET /model-info`
+
+Returns model and service information. Metrics are included when the notebook’s evaluation CSV files are available.
+
+Example response:
+
+```json
+{
+  "service": "SurfSync Project Estimator",
+  "models_loaded": true,
+  "model_load_error": null,
+  "selected_models": {
+    "development_hours": "LinearRegression",
+    "duration_days": "XGBRegressor"
+  },
+  "model_features": [
+    "project_type",
+    "num_modules",
+    "num_user_roles",
+    "num_integrations",
+    "payment_gateway_required",
+    "admin_panel_required",
+    "mobile_app_required",
+    "ai_ml_required",
+    "ui_ux_complexity",
+    "backend_complexity",
+    "num_developers",
+    "developer_experience",
+    "required_feature_count",
+    "integrations_per_module"
+  ],
+  "cost_rate_inr_per_hour": 1200,
+  "complexity_method": "rule-based scoring",
+  "dataset_note": "Models were trained on synthetic project records.",
+  "metrics": {
+    "development_hours": {
+      "selected_model": "Linear Regression",
+      "cv_mae": 97.091005,
+      "test_mae": 97.264667,
+      "test_rmse": 144.072148,
+      "test_r2": 0.648733
+    },
+    "duration_days": {
+      "selected_model": "XGBoost",
+      "cv_mae": 10.103378,
+      "test_mae": 8.575567,
+      "test_rmse": 14.342023,
+      "test_r2": 0.889208
+    }
+  }
+}
+```
+
+The metrics describe evaluation on synthetic records. They do not establish accuracy on real projects.
+
+## `POST /predict`
+
+Submit project requirements as JSON.
+
+Example request:
+
+```http
+POST /predict
+Content-Type: application/json
+```
+
+```json
+{
+  "project_name": "Customer support portal",
+  "project_type": "Web Application",
+  "num_modules": 6,
+  "num_user_roles": 3,
+  "num_integrations": 2,
+  "payment_gateway_required": "No",
+  "admin_panel_required": "Yes",
+  "mobile_app_required": "No",
+  "ai_ml_required": "No",
+  "ui_ux_complexity": "Medium",
+  "backend_complexity": "Medium",
+  "num_developers": 3,
+  "developer_experience": "Mid-level"
+}
+```
+
+### Valid input values
+
+- `project_type`: `Web Application`, `Mobile Application`, `SaaS`, `E-commerce`, `CRM`, `ERP`, `AI/ML`, or `Other`
+- `payment_gateway_required`, `admin_panel_required`, `mobile_app_required`, `ai_ml_required`: `Yes` or `No`
+- `ui_ux_complexity`, `backend_complexity`: `Low`, `Medium`, or `High`
+- `developer_experience`: `Junior`, `Mid-level`, `Senior`, or `Mixed`
+- `num_modules`: 2–15
+- `num_user_roles`: 1–8
+- `num_integrations`: 0–6
+- `num_developers`: 1–8
+- `project_name`: non-empty text, up to 100 characters
+
+The backend derives two model features from the request:
+
+- `required_feature_count`: number of `Yes` values among the four feature requirement fields
+- `integrations_per_module`: `num_integrations / num_modules`
+
+`project_name` is used to label the result and is excluded from model inputs.
+
+### Example success response
+
+```json
+{
+  "project_name": "Customer support portal",
+  "predicted_hours": 486.4,
+  "predicted_days": 31.6,
+  "predicted_cost_inr": 583680.0,
+  "hourly_rate_inr": 1200,
+  "predicted_complexity": "Medium",
+  "factors": [
+    {
+      "feature": "num_modules",
+      "hours_importance": 87.01,
+      "days_importance": 7.24
+    },
+    {
+      "feature": "num_developers",
+      "hours_importance": 0.62,
+      "days_importance": 25.27
+    }
+  ],
+  "explanation_type": "global permutation importance",
+  "selected_models": {
+    "development_hours": "LinearRegression",
+    "duration_days": "XGBRegressor"
+  },
+  "estimate_note": "Preliminary estimate from models trained on synthetic data."
+}
+```
+
+The example values illustrate the response format. Actual values depend on the submitted requirements. Cost is calculated from the unrounded predicted hours, so it may not equal the displayed one-decimal hours multiplied by the hourly rate exactly.
+
+`factors` contains global permutation importance values. They describe overall model sensitivity; they are not project-specific causal explanations.
+
+Complexity is generated by the backend’s rule-based scoring function, not by a trained classifier.
+
+## Error responses
+
+### Invalid input — `422 Unprocessable Entity`
+
+Returned when a field is missing, outside its allowed range, or has an unsupported category.
+
+Example:
+
+```json
+{
+  "detail": [
+    {
+      "type": "greater_than_equal",
+      "loc": ["body", "num_modules"],
+      "msg": "Input should be greater than or equal to 2",
+      "input": 1,
+      "ctx": {
+        "ge": 2
+      }
+    }
+  ]
+}
+```
+
+### Models unavailable — `503 Service Unavailable`
+
+Returned by `/predict` if the saved model files are missing or did not load. Check that these files are present in the `models/` folder and restart the API:
+
+```text
+development_hours_model.joblib
+duration_days_model.joblib
+```
+
+### Prediction error — `500 Internal Server Error`
+
+Returned if prediction fails or the model returns an invalid numeric result. Check the backend logs for details.
+
+## Try a prediction in Swagger UI
+
+1. Open `http://127.0.0.1:8000/docs` locally, or `https://YOUR-API-SERVICE.onrender.com/docs` after deployment.
+2. Expand `POST /predict`.
+3. Select **Try it out**.
+4. Enter a valid request body and select **Execute**.
+5. Review the HTTP status and JSON response.
+
+## Limitations
+
+The models were trained on synthetic project data. Cost uses a fixed assumption of ₹1,200 per development hour. All predictions are preliminary planning estimates, not guaranteed quotations.
