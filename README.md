@@ -143,6 +143,6 @@ The dashboard displays global permutation importance separately for hours and du
 
 Add these links after publishing and deploying:
 
-- GitHub repository: pending
-- Live application: pending
-- API documentation: pending
+- GitHub repository: https://github.com/abhilasha-17/Surfsync-project-estimator
+- Live application: https://surfsync-project-estimator.streamlit.app
+- API documentation: https://surfsync-project-estimator.onrender.com/docs
