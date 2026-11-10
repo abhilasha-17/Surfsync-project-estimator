@@ -54,8 +54,6 @@ SurfSync Project/
 └── README.md
 ```
 
-Keep the raw dataset, issue log, assumptions, notebook, evaluation artifacts, and saved models in the repository. The backend loads model files from `models/`; it also reads evaluation and feature-importance CSVs from `data/` for the app’s model information and dashboard.
-
 ## Dataset and preprocessing
 
 The project uses 400 synthetic records. The raw CSV contains intentionally introduced data-quality issues, documented in `data/data_quality_issue_log.csv`. The raw file is preserved; the issue log records the generated examples.
