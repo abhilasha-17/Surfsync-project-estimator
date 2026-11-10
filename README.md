@@ -134,3 +134,7 @@ Add these links after publishing and deploying:
 - GitHub repository: https://github.com/abhilasha-17/Surfsync-project-estimator
 - Live application: https://surfsync-project-estimator.streamlit.app
 - API documentation: https://surfsync-project-estimator.onrender.com/docs
+
+## Demo Video
+
+[Watch the 4:41 project demo] https://drive.google.com/file/d/1abj5PM9kC3y5Ylt1OijefrQvkFqgUdwT/view?usp=sharing
