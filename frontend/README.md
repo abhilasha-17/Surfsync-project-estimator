@@ -69,8 +69,6 @@ It should exclude `project_name` from model inputs.
 }
 ```
 
-`factors` may be omitted while explainability is being wired up. When present, its values are global permutation importance from the notebook's held-out evaluation, not a project-specific causal explanation. If cost is omitted, the frontend derives it as predicted hours × ₹1,200/hour. Complexity should come from the rule-based complexity function, not a classifier trained on the same synthetic labels.
-
 ## Notes
 
 - The numeric input limits match the ranges recorded in the notebook: modules 2–15, roles 1–8, integrations 0–6, and developers 1–8.
