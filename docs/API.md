@@ -13,7 +13,7 @@ http://127.0.0.1:8000
 Deployed:
 
 ```text
-https://YOUR-API-SERVICE.onrender.com
+https://surfsync-project-estimator.onrender.com/
 ```
 
 Interactive API documentation is available at `/docs`; the OpenAPI schema is at `/openapi.json`.
