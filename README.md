@@ -36,9 +36,6 @@ SurfSync Project/
 │   └── synthetic_projects_raw.csv
 ├── docs/
 │   ├── API.md
-│   ├── architecture.md
-│   ├── demo_script.md
-│   └── release_checklist.md
 ├── frontend/
 │   ├── .streamlit/
 │   │   └── config.toml
